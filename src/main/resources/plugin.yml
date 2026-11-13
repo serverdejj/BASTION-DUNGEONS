@@ -1,0 +1,12 @@
+name: BastionDungeons
+version: 1.0.0
+main: com.bastionmc.dungeons.BastionDungeons
+api-version: '1.21.11'
+author: BASTION MC
+description: Sistema de mazmorras instanciadas
+
+commands:
+  dungeons:
+    description: Comando principal de mazmorras
+    usage: /dungeons
+    aliases: [bdungeons, bd]
