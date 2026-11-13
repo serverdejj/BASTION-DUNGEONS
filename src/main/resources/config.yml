@@ -1,0 +1,20 @@
+settings:
+  prefix: "&8[&6BASTION DUNGEONS&8] "
+  debug: false
+
+instances:
+  max-per-player: 1
+  delete-on-finish: true
+  unload-on-finish: true
+
+party:
+  max-size: 5
+
+dungeons:
+  default-time-limit: 1800
+
+difficulties:
+  easy: true
+  normal: true
+  hard: true
+  extreme: true
